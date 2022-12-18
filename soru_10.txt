@@ -1,0 +1,3 @@
+Turkce yazim kurallarina gore hangisinin yazilisi dogrudur?
+A-13.00'da   B-13.00'te
+C-13.:00'da   D-13:00'te
